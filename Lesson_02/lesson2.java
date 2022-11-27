@@ -1,7 +1,5 @@
 package Lesson_02;
 
-import java.util.concurrent.ForkJoinPool;
-
 public class lesson2 {
 
     // Создать строку из миллиона плюсиков
